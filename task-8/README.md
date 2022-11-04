@@ -71,3 +71,8 @@ exit_program:
 
 Know the answer to the following question:
 - Which method of program termination is to prefer and why?
+
+## Reading Material
+The [MIPS Reference sheet](https://canvas.kth.se/courses/20007/files/3004941/download?wrap=1) is *extremely* useful.
+
+For syscall power-users, check out the [MARS syscalls](https://courses.missouristate.edu/KenVollmar/mars/Help/SyscallHelp.html).
