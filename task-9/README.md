@@ -28,7 +28,7 @@ Summary:
 
 ### Prepare Assignment
 
-1) Create a repository named `<KTH_ID>-assembly` under the `INDAPlus20` organisation and clone it. (Or don't, looking at you `@haskellers`!)
+1) Create a repository named `<KTH_ID>-assembly` under the `INDAPlus22` organisation and clone it. (Or don't, looking at you `@haskellers`!)
 2) Navigate into your newly created repository and start writing.
 
 See `./bbvv` for an example language and interpreter.
