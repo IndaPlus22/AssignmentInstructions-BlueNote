@@ -28,7 +28,7 @@ Summary:
 
 ### Prepare Assignment
 
-1) Create a repository named `<KTH_ID>-assembly` under the `INDAPlus20` organisation and clone it. (Or don't, looking at you `@haskellers`!)
+1) Create a repository named `<KTH_ID>-assembly` under the `INDAPlus22` organisation and clone it. (Or don't, looking at you `@haskellers`!)
 2) Navigate into your newly created repository and start writing.
 
 See `./bbvv` for an example language and interpreter.
@@ -37,7 +37,7 @@ See `./bbvv` for an example language and interpreter.
 
 Higher levels equals more fun!
 
-1) Copy the design of _Bacon Borde Vara Vegetariskt_ and implement an interpreter for the language in C, C++ or another low level language (excluding Rust).
+1) Copy the design of _Bacon Borde Vara Vegetariskt_ and implement an interpreter for the language in C, C++ or another low level language (excluding Python).
 2) Implement an emulator to complement the already provided compiler for _Bacon Borde Vara Vegetariskt_ using C, C++, Rust or another low level language. See `./bbvv/rust-compiler/README.md` for specifications.
 3) Design your own language and implement an interpreter for your language in whatever programming language you want (excluding Python).
 4) Design your own language and write an compiler as well as an emulator (we don't have time to design and order custom chips) for your language/architecture in whatever programming language you want (excluding Python).
