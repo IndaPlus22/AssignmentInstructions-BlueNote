@@ -27,8 +27,8 @@ There are several Rust game engines to choose from. Shortlist example: https://b
 See `./examples` for three examples in Piston, courtesy of Viola.
 
 - _GGEZ_: Interface with game loop through implementation of `EventHandler`. May not work on every obscure Linux configuration.
-- _Piston_: Events as a stream iterator. You write the event loop. Don't handle text with grace.
-- 
+- _Piston_: Events as a stream iterator. You write the event loop. Doesn't handle text with grace.
+
 ### Grading
 
 Because your solution can be implemented using any language, write in a README file of how to build and run your application (that includes how to run any unit tests and your frontend application).
