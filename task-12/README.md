@@ -20,6 +20,15 @@ Book: https://natureofcode.com/book/preface/
 
 **Note**: You may implement your solution using any language. The only drawback is that the book assume that you run OOP. Obviously, this is not the case (for me). However, you should be able to do your own interpretations.
 
+#### Rust Game Engines
+
+There are several Rust game engines to choose from. Shortlist example: https://blog.logrocket.com/5-rust-game-engines-consider-next-project/
+
+See `./examples` for three examples in Piston, courtesy of Viola.
+
+- _GGEZ_: Interface with game loop through implementation of `EventHandler`. May not work on every obscure Linux configuration.
+- _Piston_: Events as a stream iterator. You write the event loop. Don't handle text with grace.
+- 
 ### Grading
 
 Because your solution can be implemented using any language, write in a README file of how to build and run your application (that includes how to run any unit tests and your frontend application).
