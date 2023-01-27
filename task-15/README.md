@@ -1,5 +1,5 @@
 # DD1338 Week 15
-Author: Viola Sörderlund
+Author: Viola Söderlund
 ## Data Structures
 
 You think you know lists, but you don't (or maybe you do, who knows?). Prove it, in style.
