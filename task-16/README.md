@@ -2,9 +2,9 @@
 
 ## Database Management Systems (and lots of hash!)
 
-This week we are doing substances! Äh öh ehmm, ja, ehm, I mean hash, hashing, lots of it!
+This week we are doing ~~hash~~ hashing!
 
-We have already fought through logiken and dtek:en, lets sprinkel on some dbas; one more profesion paradigm for y'all. 
+We have already fought through logiken and dtek:en, lets sprinkel on some dbas; one more profession paradigm for y'all. 
 
 ![Data Propaganda](https://pics.me.me/excel-2016-desktop-app-is-this-a-database-the-users-42255119.png)
 
@@ -12,8 +12,6 @@ We have already fought through logiken and dtek:en, lets sprinkel on some dbas; 
 
 1) Create a repository named `<KTH_ID>-hash`.
 2) Clone your newly created repository and start coding.
-
-To make your Kattis-experience easier, see `./kattis_template/src/main.rs`. If you're mot all förmodan using Java, make use of [this utility class](https://open.kattis.com/download/Kattio.java?1a0093=) to simplify input-output fast enough to satisfy the judge.
 
 ## Assignment
 
