@@ -78,7 +78,7 @@ Observe the following function:
 // Assume that foo is a function which takes longer time to execute
 // for a larger value n.
 
-void someFunction(void (*foo)(int), int milliseconds, int n) {
+void someFunction(void (*f)(int), int milliseconds, int n) {
     int milliseconds_since = 1;
     int end = 1;
 

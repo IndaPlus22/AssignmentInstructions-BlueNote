@@ -1,5 +1,11 @@
 # DD1349 | Week 2
 
+1) **Mr Tobbe, this is why we must use 'task', not 'week'.**
+
+2) Yay! Pallindan, excluding any potential komplettering, is over!
+
+We could force you through a prototying week, but MDI:n is already doing a good job of that. Instead, we trust that you already know the differences between high- and low-fidelity prototypes.
+
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fweb.panelsapp.com%2Fcomics%2FDilbert%2F1368424024.gif&f=1&nofb=1)
 
 ![](https://i.pinimg.com/originals/2e/41/3f/2e413f73df2a09b39d4e0e069e73f396.gif)
